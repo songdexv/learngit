@@ -4,3 +4,4 @@ Git is developed by Linus
 Creating a new branch is quick and simple
 add a new line to test merge
 sfdsfs
+emergency！！！ bug fix
